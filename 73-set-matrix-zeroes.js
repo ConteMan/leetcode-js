@@ -18,7 +18,7 @@
         if (k === 0) {
           yFlag = true;
         }
-        if( i!== 0 && k !== 0) {
+        if (i!== 0 && k !== 0) {
           matrix[i][0] = 0;
           matrix[0][k] = 0;
         }
