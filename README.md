@@ -1,5 +1,6 @@
 Record LeetCode.
 
+[83. 删除排序链表中的重复元素](./83-remove-duplicates-from-sorted-list.js)  
 [456. 132 模式](./456-132-pattern.js)  
 [1672. 最富有客户的资产总量](./1672-richest-customer-wealth.js)  
 [73. 矩阵置零](./73-set-matrix-zeroes.js)  
