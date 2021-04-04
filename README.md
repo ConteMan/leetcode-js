@@ -1,5 +1,5 @@
 Record LeetCode.
-
+[771. 宝石与石头](./771-jewels-and-stones.js)  
 [82. 删除排序链表中的重复元素II](./82-remove-duplicates-from-sorted-list-ii.js)  
 [83. 删除排序链表中的重复元素](./83-remove-duplicates-from-sorted-list.js)  
 [456. 132 模式](./456-132-pattern.js)  
