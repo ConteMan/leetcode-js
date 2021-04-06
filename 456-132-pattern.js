@@ -4,7 +4,7 @@
  * @param {number[]} nums
  * @return {boolean}
  */
- var find132pattern = function(nums) {
+var find132pattern = function(nums) {
   const n = nums.length;
   if (n < 3) {
     return false;
@@ -44,7 +44,7 @@
  * @param {number[]} nums
  * @return {boolean}
  */
- var find132pattern = function(nums) {
+var find132pattern = function(nums) {
   const n = nums.length;
   if (n < 3) {
     return false;

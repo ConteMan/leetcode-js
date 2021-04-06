@@ -2,7 +2,7 @@
  * @param {number[][]} accounts
  * @return {number}
  */
- var maximumWealth = function(accounts) {
+var maximumWealth = function(accounts) {
   const bankNum = accounts[0].length;
   const customNum = accounts.length;
   let maxWealth = 0;

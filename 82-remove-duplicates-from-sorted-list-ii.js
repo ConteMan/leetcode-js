@@ -9,7 +9,7 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
- var deleteDuplicates = function(head) {
+var deleteDuplicates = function(head) {
   let dummy = new ListNode(0, head);
 
   let current = dummy;

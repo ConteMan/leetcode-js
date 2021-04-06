@@ -2,7 +2,7 @@
  * @param {number[][]} matrix
  * @return {void} Do not return anything, modify matrix in-place instead.
  */
- var setZeroes = function(matrix) {
+var setZeroes = function(matrix) {
   const m = matrix.length;
   const n = matrix[0].length;
   const flag = matrix[0][0] === 0;
