@@ -1,5 +1,6 @@
 Record LeetCode.  
-
+[53. 最大子序和](./53-maximum-subarray.js)  
+[35. 搜索插入位置](./35-search-insert-position.js)  
 [1512. 好数对的数目](./1512-number-of-good-pairs.js)  
 [771. 宝石与石头](./771-jewels-and-stones.js)  
 [82. 删除排序链表中的重复元素II](./82-remove-duplicates-from-sorted-list-ii.js)  
